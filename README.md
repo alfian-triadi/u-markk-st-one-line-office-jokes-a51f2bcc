@@ -1,5 +1,9 @@
 # One-Line Office Jokes
 
+[![make.fun](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc.svg)](https://make.fun/c/u-markk-st-one-line-office-jokes-a51f2bcc)
+[![Rank](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/alfian-triadi/u-markk-st-one-line-office-jokes-a51f2bcc/rank.svg)](https://make.fun/c/u-markk-st-one-line-office-jokes-a51f2bcc)
+[![Reward](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/alfian-triadi/u-markk-st-one-line-office-jokes-a51f2bcc/reward.svg)](https://make.fun/c/u-markk-st-one-line-office-jokes-a51f2bcc)
+
 Entry for the [make.fun](https://make.fun) competition
 [One-Line Office Jokes](https://make.fun/c/u-markk-st-one-line-office-jokes-a51f2bcc).
 
